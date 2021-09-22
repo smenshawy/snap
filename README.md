@@ -4,7 +4,6 @@
 ### Install app locally:
 
 ```
-
 $ npm install
 ```
 
